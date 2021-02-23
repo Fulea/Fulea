@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 # How to reach me: ...
 
@@ -29,5 +29,7 @@
 <a href = "https://github.com/Fulea/War-Dice-Game">
   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Fulea&repo=War-Dice-Game&theme=dark&hide_border" align = "center" />
 </a>
+
+## Credits
 
 These stats were generated using Github Readme Stats by <a href = "https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
