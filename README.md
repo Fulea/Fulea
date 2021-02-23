@@ -1,6 +1,8 @@
-## Hi there 👋
+# About me
 
-# How to reach me: ...
+Hi! I'm Radu, a Software QA Engineer living in Cluj-Napoca, Romania. I am passionate about technology and I am always trying to improve my knowledge. In my spare time I like to travel, cook, play video games
+
+# How to reach me
 
 <a href = "https://www.linkedin.com/in/radu-fulea-01629215a/">
   <img src = "Logos/linkedin-logo.png" width = "auto" height = "50px" />
