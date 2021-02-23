@@ -13,7 +13,7 @@
 # Stats
 
 <a href = "https://github.com/Fulea?tab=repositories">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Fulea&count_private=false&show_icons=true&theme=dark&include_all_commits=true" align = "center" />
+  <img src = "https://github-readme-stats.vercel.app/api?username=Fulea&count_private=true&show_icons=true&theme=dark&include_all_commits=true" align = "center" />
 </a>
 
 <a href = "https://github.com/Fulea?tab=repositories">
