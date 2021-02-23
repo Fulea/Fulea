@@ -1,6 +1,6 @@
 # About me
 
-Hi! I'm Radu, a Software QA Engineer living in Cluj-Napoca, Romania. I am passionate about technology and I am always trying to improve my knowledge. In my spare time I like to travel, cook, play video games
+Hi! I'm Radu, a Software QA Engineer living in Cluj-Napoca, Romania. I am passionate about technology and I am always trying to improve my knowledge. In my spare time I like to travel, cook and listen to music.
 
 # How to reach me
 
